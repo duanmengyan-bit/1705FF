@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job" charset="UTF-8" />
+    <file url="file://D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-admin" charset="UTF-8" />
+    <file url="file://D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-core" charset="UTF-8" />
+    <file url="file://D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-executor-samples" charset="UTF-8" />
+    <file url="file://D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless" charset="UTF-8" />
+    <file url="file://D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jboot" charset="UTF-8" />
+    <file url="file://D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jfinal" charset="UTF-8" />
+    <file url="file://D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz" charset="UTF-8" />
+    <file url="file://D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring" charset="UTF-8" />
+    <file url="file://D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot" charset="UTF-8" />
+    <file url="file://D:/homeEaxmDay20/ec-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jxc-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jxc-biz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jxc-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jxc-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jxc-pay-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jxc-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jxc-start" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jxc-upms" charset="UTF-8" />
+    <file url="file://D:/xxl-job" charset="UTF-8" />
+    <file url="file://D:/xxl-job/xxl-job-admin" charset="UTF-8" />
+    <file url="file://D:/xxl-job/xxl-job-core" charset="UTF-8" />
+    <file url="file://D:/xxl-job/xxl-job-executor-samples" charset="UTF-8" />
+    <file url="file://D:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless" charset="UTF-8" />
+    <file url="file://D:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jboot" charset="UTF-8" />
+    <file url="file://D:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jfinal" charset="UTF-8" />
+    <file url="file://D:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz" charset="UTF-8" />
+    <file url="file://D:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring" charset="UTF-8" />
+    <file url="file://D:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot" charset="UTF-8" />
+    <file url="file://D:/xxl-job1/xxl-job1" charset="UTF-8" />
+    <file url="file://D:/xxl-job1/xxl-job1/xxl-job-admin" charset="UTF-8" />
+    <file url="file://D:/xxl-job1/xxl-job1/xxl-job-core" charset="UTF-8" />
+    <file url="file://D:/xxl-job1/xxl-job1/xxl-job-executor-samples" charset="UTF-8" />
+    <file url="file://D:/xxl-job1/xxl-job1/xxl-job-executor-samples/xxl-job-executor-sample-frameless" charset="UTF-8" />
+    <file url="file://D:/xxl-job1/xxl-job1/xxl-job-executor-samples/xxl-job-executor-sample-jboot" charset="UTF-8" />
+    <file url="file://D:/xxl-job1/xxl-job1/xxl-job-executor-samples/xxl-job-executor-sample-jfinal" charset="UTF-8" />
+    <file url="file://D:/xxl-job1/xxl-job1/xxl-job-executor-samples/xxl-job-executor-sample-nutz" charset="UTF-8" />
+    <file url="file://D:/xxl-job1/xxl-job1/xxl-job-executor-samples/xxl-job-executor-sample-spring" charset="UTF-8" />
+    <file url="file://D:/xxl-job1/xxl-job1/xxl-job-executor-samples/xxl-job-executor-sample-springboot" charset="UTF-8" />
+    <file url="file://E:/xxl-job" charset="UTF-8" />
+    <file url="file://E:/xxl-job/xxl-job-admin" charset="UTF-8" />
+    <file url="file://E:/xxl-job/xxl-job-core" charset="UTF-8" />
+    <file url="file://E:/xxl-job/xxl-job-executor-samples" charset="UTF-8" />
+    <file url="file://E:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless" charset="UTF-8" />
+    <file url="file://E:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jboot" charset="UTF-8" />
+    <file url="file://E:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jfinal" charset="UTF-8" />
+    <file url="file://E:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz" charset="UTF-8" />
+    <file url="file://E:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring" charset="UTF-8" />
+    <file url="file://E:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot" charset="UTF-8" />
+  </component>
+</project>

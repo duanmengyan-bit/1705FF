@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xxl-job-executor-sample-spring" />
+        <module name="xxl-job-executor-sample-springboot" />
+        <module name="jxc-common" />
+        <module name="xxl-job-executor-sample-jfinal (3)" />
+        <module name="xxl-job-executor-sample-jfinal" />
+        <module name="gateway" />
+        <module name="jxc-search" />
+        <module name="jxc-upms" />
+        <module name="xxl-job-executor-sample-frameless (3)" />
+        <module name="xxl-job-executor-sample-nutz" />
+        <module name="xxl-job-executor-sample-jboot (3)" />
+        <module name="jxc-auth" />
+        <module name="xxl-job-admin" />
+        <module name="xxl-job-core" />
+        <module name="jxc-pay" />
+        <module name="xxl-job-executor-sample-frameless" />
+        <module name="xxl-job-core (3)" />
+        <module name="xxl-job-admin (3)" />
+        <module name="jxcpaystarter" />
+        <module name="jxc-start" />
+        <module name="jxc-biz" />
+        <module name="xxl-job-executor-sample-spring (3)" />
+        <module name="xxl-job-executor-sample-jboot" />
+        <module name="xxl-job-executor-sample-springboot (3)" />
+        <module name="xxl-job-executor-sample-nutz (3)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ec-pay" target="1.8" />
+      <module name="jxc-pay-starter" target="1.8" />
+      <module name="xxl-job (2)" target="1.8" />
+      <module name="xxl-job-admin (2)" target="1.8" />
+      <module name="xxl-job-core (2)" target="1.8" />
+      <module name="xxl-job-executor-sample-frameless (2)" target="1.8" />
+      <module name="xxl-job-executor-sample-jboot (2)" target="1.8" />
+      <module name="xxl-job-executor-sample-jfinal (2)" target="1.8" />
+      <module name="xxl-job-executor-sample-nutz (2)" target="1.8" />
+      <module name="xxl-job-executor-sample-spring (2)" target="1.8" />
+      <module name="xxl-job-executor-sample-springboot (2)" target="1.8" />
+      <module name="xxl-job-executor-samples (2)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ec-pay" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="jxc-auth" options="-parameters" />
+      <module name="jxc-biz" options="-parameters" />
+      <module name="jxc-common" options="-parameters" />
+      <module name="jxc-pay" options="-parameters" />
+      <module name="jxc-pay-starter" options="-parameters" />
+      <module name="jxc-search" options="-parameters" />
+      <module name="jxc-start" options="-parameters" />
+      <module name="jxc-upms" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jfinal" />
+    <file type="web" url="file://D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz" />
+    <file type="web" url="file://D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring" />
+    <file type="web" url="file://D:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jfinal" />
+    <file type="web" url="file://D:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz" />
+    <file type="web" url="file://D:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring" />
+    <file type="web" url="file://D:/xxl-job1/xxl-job1/xxl-job-executor-samples/xxl-job-executor-sample-jfinal" />
+    <file type="web" url="file://D:/xxl-job1/xxl-job1/xxl-job-executor-samples/xxl-job-executor-sample-nutz" />
+    <file type="web" url="file://D:/xxl-job1/xxl-job1/xxl-job-executor-samples/xxl-job-executor-sample-spring" />
+    <file type="web" url="file://E:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jfinal" />
+    <file type="web" url="file://E:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz" />
+    <file type="web" url="file://E:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/jxc-biz/pom.xml" />
+        <option value="$PROJECT_DIR$/jxc-common/pom.xml" />
+        <option value="$PROJECT_DIR$/jxc-pay-starter/pom.xml" />
+        <option value="D:/xxl-job1/xxl-job1/pom.xml" />
+        <option value="E:/xxl-job/pom.xml" />
+        <option value="$PROJECT_DIR$/jxc-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/jxc-upms/pom.xml" />
+        <option value="$PROJECT_DIR$/jxc-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/jxc-start/pom.xml" />
+        <option value="$PROJECT_DIR$/jxc-search/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/pom.xml" />
+        <option value="D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-admin/pom.xml" />
+        <option value="D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-core/pom.xml" />
+        <option value="D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-executor-samples/pom.xml" />
+        <option value="D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless/pom.xml" />
+        <option value="D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jboot/pom.xml" />
+        <option value="D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jfinal/pom.xml" />
+        <option value="D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz/pom.xml" />
+        <option value="D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring/pom.xml" />
+        <option value="D:/360安全浏览器下载/xuxueli0323-xxl-job-master/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/pom.xml" />
+        <option value="D:/xxl-job/pom.xml" />
+        <option value="D:/xxl-job/xxl-job-admin/pom.xml" />
+        <option value="D:/xxl-job/xxl-job-core/pom.xml" />
+        <option value="D:/xxl-job/xxl-job-executor-samples/pom.xml" />
+        <option value="D:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless/pom.xml" />
+        <option value="D:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jboot/pom.xml" />
+        <option value="D:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jfinal/pom.xml" />
+        <option value="D:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz/pom.xml" />
+        <option value="D:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring/pom.xml" />
+        <option value="D:/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
